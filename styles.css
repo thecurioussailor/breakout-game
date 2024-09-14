@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+canvas {
+    background: #eee;
+    display: block;
+    margin: 50px auto;
+}
+
+.button-wrapper{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    padding: 10px;
+    border: 2px solid blue;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+  
